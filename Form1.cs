@@ -41,5 +41,10 @@ namespace PruebaAforge
                 pictureBox2.Image = gray.Apply((Bitmap)pictureBox1.Image);
             }
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
