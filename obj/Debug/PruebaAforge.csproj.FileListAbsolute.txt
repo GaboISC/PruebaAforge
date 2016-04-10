@@ -1,0 +1,15 @@
+c:\users\gabo\documents\visual studio 2015\Projects\PruebaAforge\PruebaAforge\bin\Debug\PruebaAforge.exe.config
+c:\users\gabo\documents\visual studio 2015\Projects\PruebaAforge\PruebaAforge\bin\Debug\PruebaAforge.exe
+c:\users\gabo\documents\visual studio 2015\Projects\PruebaAforge\PruebaAforge\bin\Debug\PruebaAforge.pdb
+c:\users\gabo\documents\visual studio 2015\Projects\PruebaAforge\PruebaAforge\obj\Debug\PruebaAforge.csprojResolveAssemblyReference.cache
+c:\users\gabo\documents\visual studio 2015\Projects\PruebaAforge\PruebaAforge\obj\Debug\PruebaAforge.Form1.resources
+c:\users\gabo\documents\visual studio 2015\Projects\PruebaAforge\PruebaAforge\obj\Debug\PruebaAforge.Properties.Resources.resources
+c:\users\gabo\documents\visual studio 2015\Projects\PruebaAforge\PruebaAforge\obj\Debug\PruebaAforge.csproj.GenerateResource.Cache
+c:\users\gabo\documents\visual studio 2015\Projects\PruebaAforge\PruebaAforge\obj\Debug\PruebaAforge.exe
+c:\users\gabo\documents\visual studio 2015\Projects\PruebaAforge\PruebaAforge\obj\Debug\PruebaAforge.pdb
+C:\Users\Gabo\Documents\Visual Studio 2015\Projects\PruebaAforge\PruebaAforge\bin\Debug\AForge.dll
+C:\Users\Gabo\Documents\Visual Studio 2015\Projects\PruebaAforge\PruebaAforge\bin\Debug\AForge.Imaging.dll
+C:\Users\Gabo\Documents\Visual Studio 2015\Projects\PruebaAforge\PruebaAforge\bin\Debug\AForge.Math.dll
+C:\Users\Gabo\Documents\Visual Studio 2015\Projects\PruebaAforge\PruebaAforge\bin\Debug\AForge.xml
+C:\Users\Gabo\Documents\Visual Studio 2015\Projects\PruebaAforge\PruebaAforge\bin\Debug\AForge.Imaging.xml
+C:\Users\Gabo\Documents\Visual Studio 2015\Projects\PruebaAforge\PruebaAforge\bin\Debug\AForge.Math.xml
